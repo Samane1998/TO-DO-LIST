@@ -1,6 +1,6 @@
-#REACT
-#Tailwind
+
 Creating TO DO LIST using React and Tailwind CSS ...
+
 
 
 ![Screenshot (157)](https://github.com/Samane1998/TO-DO-LIST/assets/136247795/d8fe36f0-c81c-4ac2-8b8a-8df81905c55d)
