@@ -1,12 +1,8 @@
+# React + Vite
 
-Creating TO DO LIST using React and Tailwind CSS ...
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
 
-
-![Screenshot (157)](https://github.com/Samane1998/TO-DO-LIST/assets/136247795/d8fe36f0-c81c-4ac2-8b8a-8df81905c55d)
-
-
-![Screenshot (158)](https://github.com/Samane1998/TO-DO-LIST/assets/136247795/7019c770-6dcd-4bc2-93da-135627797b75)
-
-
-![Screenshot (159)](https://github.com/Samane1998/TO-DO-LIST/assets/136247795/345715f1-22fd-4ea6-880f-e33ab2041ee6)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
